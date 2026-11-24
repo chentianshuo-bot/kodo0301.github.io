@@ -1,6 +1,6 @@
 // 只需修改这里，网站会自动更新。文字请保留引号和逗号。
 const portfolio = {
-  name: "程鑫年",
+  name: "陈天硕",
   shortName: "CXN",
   initials: "CXN",
   title: "Python 开发与数据采集",
